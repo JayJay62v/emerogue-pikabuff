@@ -265578,7 +265578,7 @@ static struct LevelUpMove const sLevelUpMoves_SPECIES_PIKACHU_ORIGINAL_CAP[] =
 	{ .move=MOVE_THUNDER_WAVE, .level=4 },
 	{ .move=MOVE_DOUBLE_TEAM, .level=8 },
 	{ .move=MOVE_ELECTRO_BALL, .level=12 },
-	{ .move=MOVE_FEINT, .level=16 },
+	{ .move=MOVE_FAKE_OUT, .level=16 },
 	{ .move=MOVE_SPARK, .level=20 },
 	{ .move=MOVE_AGILITY, .level=24 },
 	{ .move=MOVE_IRON_TAIL, .level=28 },
@@ -265631,6 +265631,7 @@ static u16 const sTutorMoves_SPECIES_PIKACHU_ORIGINAL_CAP[] =
 	MOVE_THUNDERBOLT,
 	MOVE_TRAILBLAZE,
 	MOVE_VOLT_SWITCH,
+	MOVE_VOLT_TACKLE,
 	MOVE_WILD_CHARGE,
 	MOVE_NONE,
 };
