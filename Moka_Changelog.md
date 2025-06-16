@@ -1,5 +1,9 @@
 # CHANGELOG
 
+6/16/2025
+- Added Volt Tackle to "Can't Pick?!" Pikachu
+- Added Fake Out to "Can't Pick?!" Pikachu
+
 9/12/2024
 - Adjusted the potion brewing text position to fit 3 digits
 - Fixed potion cauldron not correctly reducing the berry amount during large batches of brewing
